@@ -1,0 +1,33 @@
+/* Sık kullanılanlar listesi stil tanımlamaları */
+ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #000;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  h1 {
+    font-size: 20px;
+    margin-bottom: 20px;
+  }
+  
+  /* İsteğe bağlı: Sayfa genişliği ayarları */
+  body {
+    width: 300px;
+  }
+  
+  ul {
+    width: 100%;
+  }
+  
